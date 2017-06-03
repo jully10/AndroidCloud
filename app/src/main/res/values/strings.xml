@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidCloud</string>
+    <string name="deletar">Del</string>
+    <string name="modelo">Modelo</string>
+    <string name="fabricante">Fabricante</string>
+    <string name="gm" translatable="false">GM</string>
+    <string name="honda" translatable="false">Honda</string>
+    <string name="fiat" translatable="false">Fiat</string>
+</resources>

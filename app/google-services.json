@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "11962112009",
+    "firebase_url": "https://shiftiot-76cb0.firebaseio.com",
+    "project_id": "shiftiot-76cb0",
+    "storage_bucket": "shiftiot-76cb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11962112009:android:e482b5716766c732",
+        "android_client_info": {
+          "package_name": "com.example.alunoshift.androidcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11962112009-ru26ueucn0fi6jd031vbfu4cf6ce866t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjcKGJtXT-RhUC-qKNI47baD7juQfknXI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
